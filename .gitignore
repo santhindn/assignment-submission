@@ -1,0 +1,25 @@
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+
+# Build
+/build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+
+# Secrets
+.env
+
